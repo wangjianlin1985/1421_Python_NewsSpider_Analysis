@@ -1,0 +1,8 @@
+django==2.0
+django-threadlocals
+pymysql
+click
+requests
+xlrd==1.2.0
+django-cors-headers
+hdfs==2.7.0

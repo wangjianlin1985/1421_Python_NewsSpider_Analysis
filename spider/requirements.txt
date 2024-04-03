@@ -1,0 +1,5 @@
+itemadapter==0.7.0
+#pymssql==2.2.5
+PyMySQL==1.0.2
+Scrapy==2.6.3
+emoji==2.2.0
